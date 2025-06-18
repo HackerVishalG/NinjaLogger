@@ -1,0 +1,15 @@
+Couldn't get Public Ip Address(most likely max query)Processor:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System:Windows 10.0.26100
+Machine:AMD64
+Hostname:Fox
+Private Ip Address:192.168.45.41
+Couldn't get Public Ip Address(most likely max query)Processor:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System:Windows 10.0.26100
+Machine:AMD64
+Hostname:Fox
+Private Ip Address:192.168.45.41
+Couldn't get Public Ip Address(most likely max query)Processor:AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+System:Windows 10.0.26100
+Machine:AMD64
+Hostname:Fox
+Private Ip Address:192.168.45.41
